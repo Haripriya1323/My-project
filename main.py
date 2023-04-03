@@ -1,1 +1,4 @@
-print("hello world")
+lis=["kia","hyundai","swift","benz","toyota"]
+for i in lis:
+  print(i)
+
